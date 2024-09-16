@@ -1,0 +1,16 @@
+Exercices Python
+================
+
+L'ensemble des liens et resources pour ce cours se trouveront ici : `github.com/clade/InfoFIP2024 <https://github.com/clade/InfoFIP2024>`_.
+
+
+
+.. toctree::
+   :maxdepth: 2
+
+   notebook
+   numpy
+   statistiques
+   equa_diff
+   Fourier
+   problemes
